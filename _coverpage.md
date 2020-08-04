@@ -12,7 +12,7 @@
   
 * 作者：靈吾靈
   
-[GitHub](https://github.com/docsifyjs/docsify/)
-[开始](#quick-start)
+[GitHub](https://github.com/caoguanjie/yapi-docs.git)
+[开始](/docs/quick-start)
 
 
