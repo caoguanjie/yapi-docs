@@ -1,2 +1,5 @@
 * [快速上手](/docs/quick-start.md)
 * [内网部署](/docs/internet.md)
+* [权限操作](/docs/permission.md)
+* [项目操作](/docs/project.md)
+* [常见问题解答](/docs/question.md)
