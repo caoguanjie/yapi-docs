@@ -2,5 +2,7 @@
 * [内网部署](/docs/internet.md)
 * [权限操作](/docs/permission.md)
 * [项目操作](/docs/project.md)
+* [接口操作](/docs/interface.md)
+* [数据Mock](/docs/mock.md)
 * [知识拓展](/docs/knowledge.md)
 * [常见问题解答](/docs/question.md)

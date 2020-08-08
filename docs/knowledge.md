@@ -117,7 +117,7 @@ var str = JSON5.stringify(obj);
 ## 什么是JSON Schema
 > [原文地址](https://juejin.im/post/6844903848239169550)
 
-要了解JSON Schema是什么，我们应该首先了解JSON是什么。
+要了解[JSON Schema](https://www.jianshu.com/p/8278eb2458c4?winzoom=1)是什么，我们应该首先了解JSON是什么。
 
 JSON代表 `JavaScript Object Notation`，一种简单的互联网数据交换格式。由于JavaScript存在于绝大多数Web浏览器中，而JSON基于JavaScript而来，因此很容易在JavaScript中的得到支持。同时，它已被证明足够有用且足够简单，现在也被用于许多其他不涉及互联网数据交换的环境中。
 
