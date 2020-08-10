@@ -7,5 +7,6 @@
 * [高级Mock](/docs/highmock.md)
 * [自动化测试](/docs/autoTest.md)
 * [数据导入](/docs/importantdata.md)
+* [数据导出](/docs/exportdata.md)
 * [知识拓展](/docs/knowledge.md)
 * [常见问题解答](/docs/question.md)
