@@ -5,5 +5,6 @@
 * [接口操作](/docs/interface.md)
 * [数据Mock](/docs/mock.md)
 * [高级Mock](/docs/highmock.md)
+* [自动化测试](/docs/autoTest.md)
 * [知识拓展](/docs/knowledge.md)
 * [常见问题解答](/docs/question.md)
