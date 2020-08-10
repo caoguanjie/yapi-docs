@@ -17,3 +17,30 @@
 * 项目组长: 点击项目页的 `设置` - `成员列表`，成员右侧显示着 `组长/开发者` 的权限信息。
 
 ![图 12](../images/f4e51fd266da9b12260cbc880e9e8985a48f9703b8ead253f13c1201c00cd3a4.png)  
+
+## Q2.怎么快速迁移旧项目？
+
+第一步. 使用 Chrome 浏览器开发者工具录制功能
+
+第二步 录制当前项目所有请求，导出到 har 文件
+
+第三步 将Har数据导入到 YApi 平台
+
+具体使用方法请参考 YApi [文档](/docs/importantdata.md?id=har数据导入)
+
+
+## Q3.忘记密码怎么办？
+
+请联系 `超级管理员` ，只有超级管理员能重置密码。
+
+## Q4.部署不成功怎么办？
+
+* 确保 node 版本=> 7.6,请运行 node -v 查看版本号
+* 确保 mongodb 版本 => 2.6，请运行 mongo --version 查看版本号
+* 确保安装了 npm, 运行 npm -v 查看版本号。
+* 确保安装了 git,运行 git --version 查看版本号
+* 为了保证系统能安装pm2服务管理器，node要大于v8.11.0.npm要大于v6.5.0
+
+
+## Q5.部署YApi遇到mongodb认证问题？
+[mongodb3.03以上开启认证,解决程序认证连接报错以及第三方客户端无法认证问题](https://blog.csdn.net/ll657418802/article/details/50846313?locationNum=7)
