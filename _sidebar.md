@@ -9,4 +9,5 @@
 * [数据导入](/docs/importantdata.md)
 * [数据导出](/docs/exportdata.md)
 * [知识拓展](/docs/knowledge.md)
+* [二次开发](/docs/secondDev.md)
 * [常见问题解答](/docs/question.md)
