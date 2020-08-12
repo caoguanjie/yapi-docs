@@ -127,3 +127,5 @@ npm run dev
 ykit pack -m
 node server/app.js
 ```
+
+!> 二次开发必须是经过yapi-cli可视化部署过才能正常开发，不能通过复制粘贴项目进行开发，需要重新部署
